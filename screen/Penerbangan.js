@@ -27,7 +27,7 @@ const Penerbangan = ({ navigation }) => {
       <SafeAreaView>
         <ViewData />
       </SafeAreaView>
-      <Text style={styles.copyright}>Copyright Muhammad Affan Said-120140030</Text>
+      <Text style={styles.copyright}>Copyright Carin Akiela Amanda-120140009</Text>
     </View>
     </Provider>
   );
