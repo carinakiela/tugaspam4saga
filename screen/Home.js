@@ -53,7 +53,7 @@ const [tanggal, setTanggal] = useState("");
             </View>
             
             <View style={styles.kotak}>
-              <Text style={styles.copyright}>Copyright Muhammad Affan Said-120140030</Text>
+              <Text style={styles.copyright}>Copyright Carin Akiela Amanda-120140009</Text>
             </View>
         </View>
     );
